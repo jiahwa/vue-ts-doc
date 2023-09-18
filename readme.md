@@ -36,7 +36,3 @@ Vue3手册：[https://www.vuemastery.com/vue-3-cheat-sheet/](https://www.vuemast
  JavaScript 模块打包器，使用library库或者应用程序
  
 [https://www.rollupjs.com](https://www.rollupjs.com)
-
-# 个人学习网站
-
-由vx团队成员（靳斌）共享：[http://32y45289t5.zicp.vip/#/README](http://32y45289t5.zicp.vip/#/README)
